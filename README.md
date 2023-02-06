@@ -1,4 +1,11 @@
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Welcome</h1>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, welcome</h1>
+
+<p align="center" style="background-color: #red">
+  <img src="https://user-images.githubusercontent.com/95252314/216867713-90b6da7d-5f1f-471f-b552-2bccae061645.gif" alt="animated" />
+</p>
+
+
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=Aniiz&color=yellow" alt="Profile views" /> </p>
 
 <br>
 
