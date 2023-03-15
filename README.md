@@ -5,7 +5,7 @@
 </p>
 
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=Aniiz&color=yellow" alt="Profile views" /> </p>
+<!-- <p align="right"> <img src="https://komarev.com/ghpvc/?username=Aniiz&color=yellow" alt="Profile views" /> </p>
 
 <br>
 
@@ -18,7 +18,7 @@
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aniiz&layout=compact&theme=dark" alt="maykbrito's most languages"/>
 </p>
 
-<br>
+<br> -->
 
 
 ## 🛠 &nbsp;Tech Stack
